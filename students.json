@@ -1,0 +1,904 @@
+[
+    {
+        "Roll Number": "34039/22",
+        "Student Name": "AAKRITI MAGAR",
+        "Grade": "BBA 2nd Semester",
+        "Subjects": {
+            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.62},
+            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.06},
+            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.73},
+            "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.58},
+            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+        },
+        "SGPA": 3.35,
+        "Semester Grade": "B+",
+        "Remarks": "First Division"
+    },
+    {
+        "Roll Number": "34040/22",
+        "Student Name": "AARSHU KHADKA",
+        "Grade": "BBA 2nd Semester",
+        "Subjects": {
+            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.38},
+            "ACC 201 Financial Accounting": {"Grade": "B-", "GPA": 2.97},
+            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.54},
+            "MTH 202 Business Mathematics - II": {"Grade": "F", "GPA": 0}
+        },
+        "SGPA": 1.81,
+        "Semester Grade": "Fail",
+        "Remarks": "Fail"
+    },
+    {
+        "Roll Number": "34041/22",
+        "Student Name": "AARYAN KHADKA",
+        "Grade": "BBA 2nd Semester",
+        "Subjects": {
+            "ENG 202 English - II": {"Grade": "B-", "GPA": 2.85},
+            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0}
+        },
+        "SGPA": 0,
+        "Semester Grade": "Fail",
+        "Remarks": "Fail"
+    },
+    {
+        "Roll Number": "34042/22",
+        "Student Name": "ABISA ROKKA",
+        "Grade": "BBA 2nd Semester",
+        "Subjects": {
+            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.58},
+            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.62},
+            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.03},
+            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.66},
+            "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.97},
+            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.66}
+        },
+        "SGPA": 3.66,
+        "Semester Grade": "B+",
+        "Remarks": "First Division"
+    },
+
+        {
+            "Roll Number": "34044/22",
+            "Student Name": "ANJAL KARKI",
+            "Grade": "BBA 2nd Semester",
+            "Subjects": {
+                "ENG 202 English - II": {"Grade": "B+", "GPA": 3.54},
+                "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.38},
+                "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3},
+                "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.62},
+                "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.3},
+                "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.3}
+            },
+            "SGPA": 3.35,
+            "Semester Grade": "B+",
+            "Remarks": "First Division"
+        },
+        {
+            "Roll Number": "34045/22",
+            "Student Name": "ANJALI SHAH",
+            "Grade": "BBA 2nd Semester",
+            "Subjects": {
+                "ENG 202 English - II": {"Grade": "B", "GPA": 3.27},
+                "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.12},
+                "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0}
+            },
+            "SGPA": 1.8,
+            "Semester Grade": "Fail",
+            "Remarks": "Fail"
+        },
+        {
+            "Roll Number": "34046/22",
+            "Student Name": "ANKITA SHRESTHA",
+            "Grade": "BBA 2nd Semester",
+            "Subjects": {
+                "ENG 202 English - II": {"Grade": "B+", "GPA": 3.38},
+                "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.5},
+                "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.18},
+                "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.91},
+                "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.79},
+                "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.42}
+            },
+            "SGPA": 3.5,
+            "Semester Grade": "B+",
+            "Remarks": "First Division"
+        },
+        {
+            "Roll Number": "34047/22",
+            "Student Name": "ARCHANA GHIMIRE",
+            "Grade": "BBA 2nd Semester",
+            "Subjects": {
+                "ENG 202 English - II": {"Grade": "A-", "GPA": 3.7},
+                "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.24},
+                "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+                "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.82},
+                "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.5}
+            },
+            "SGPA": 2.65,
+            "Semester Grade": "Fail",
+            "Remarks": "Fail"
+        },
+        {
+            "Roll Number": "34048/22",
+            "Student Name": "ARPAN NEPAL",
+            "Grade": "BBA 2nd Semester",
+            "Subjects": {
+                "ENG 202 English - II": {"Grade": "B+", "GPA": 3.62},
+                "ACC 201 Financial Accounting": {"Grade": "B-", "GPA": 2.94},
+                "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.76},
+                "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3.03},
+                "IT 232 Database Management System": {"Grade": "B", "GPA": 3.18}
+            },
+            "SGPA": 3.13,
+            "Semester Grade": "B",
+            "Remarks": "Second Division"
+        },
+        {
+            "Roll Number": "34049/22",
+            "Student Name": "ARSHU REGMI",
+            "Grade": "BBA 2nd Semester",
+            "Subjects": {
+                "ENG 202 English - II": {"Grade": "A-", "GPA": 3.85},
+                "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.88},
+                "ECO 204 Macro Economics for Business": {"Grade": "A-", "GPA": 3.76},
+                "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.85},
+                "MTH 202 Business Mathematics - II": {"Grade": "A", "GPA": 4},
+                "IT 232 Database Management System": {"Grade": "A-", "GPA": 3.82}
+            },
+            "SGPA": 3.87,
+            "Semester Grade": "A-",
+            "Remarks": "Very Good"
+        },
+        
+            {
+                "Roll Number": "34050/22",
+                "Student Name": "AYUSH RAYAMAJHI",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B+", "GPA": 3.38},
+                    "ACC 201 Financial Accounting": {"Grade": "B-", "GPA": 2.94},
+                    "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.7},
+                    "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3.18}
+                },
+                "SGPA": 2.44,
+                "Semester Grade": "Fail",
+                "Remarks": "Fail"
+            },
+            {
+                "Roll Number": "34051/22",
+                "Student Name": "AYUSH THATAL",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B+", "GPA": 3.5},
+                    "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3},
+                    "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.88},
+                    "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.94},
+                    "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.46}
+                },
+                "SGPA": 3.43,
+                "Semester Grade": "B+",
+                "Remarks": "First Division"
+            },
+            {
+                "Roll Number": "34053/22",
+                "Student Name": "BIKRAM KUMAR DAS",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B", "GPA": 3.18},
+                    "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3},
+                    "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0}
+                },
+                "SGPA": 1.59,
+                "Semester Grade": "Fail",
+                "Remarks": "Fail"
+            },
+            {
+                "Roll Number": "34054/22",
+                "Student Name": "BINAYA POUDEL",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B+", "GPA": 3.46},
+                    "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.66},
+                    "ECO 204 Macro Economics for Business": {"Grade": "B+", "GPA": 3.38},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A", "GPA": 4},
+                    "MTH 202 Business Mathematics - II": {"Grade": "A", "GPA": 4},
+                    "IT 232 Database Management System": {"Grade": "A-", "GPA": 3.76}
+                },
+                "SGPA": 3.69,
+                "Semester Grade": "B+",
+                "Remarks": "First Division"
+            },
+            {
+                "Roll Number": "34055/22",
+                "Student Name": "BINITA PARIYAR",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "A-", "GPA": 3.73},
+                    "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.76},
+                    "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.27},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A", "GPA": 4},
+                    "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.85},
+                    "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.66}
+                },
+                "SGPA": 3.7,
+                "Semester Grade": "A-",
+                "Remarks": "Very Good"
+            },
+            {
+                "Roll Number": "34056/22",
+                "Student Name": "BIPASNA TAMANG",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B+", "GPA": 3.54},
+                    "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.58},
+                    "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.09},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.62},
+                    "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.42},
+                    "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.54}
+                },
+                "SGPA": 3.47,
+                "Semester Grade": "B+",
+                "Remarks": "First Division"
+            },
+            {
+                "Roll Number": "34057/22",
+                "Student Name": "BISHAL KHADKA",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B+", "GPA": 3.58},
+                    "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.73},
+                    "ECO 204 Macro Economics for Business": {"Grade": "B+", "GPA": 3.3},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.85},
+                    "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.3}
+                },
+                "SGPA": 3.48,
+                "Semester Grade": "B+",
+                "Remarks": "First Division"
+            },
+            {
+                "Roll Number": "34058/22",
+                "Student Name": "BRISHMA RAI",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B+", "GPA": 3.42},
+                    "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.3},
+                    "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.97},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.79},
+                    "MTH 202 Business Mathematics - II": {"Grade": "B-", "GPA": 2.91},
+                    "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                },
+                "SGPA": 3.22,
+                "Semester Grade": "B",
+                "Remarks": "Second Division"
+            },
+            {
+                "Roll Number": "34059/22",
+                "Student Name": "BUDDHA KUMARI RAI",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B", "GPA": 3},
+                    "ACC 201 Financial Accounting": {"Grade": "F", "GPA": 0},
+                    "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0}
+                },
+                "SGPA": 1,
+                "Semester Grade": "Fail",
+                "Remarks": "Fail"
+            },
+            {
+                "Roll Number": "34060/22",
+                "Student Name": "CHETAN RAI",
+                "Grade": "BBA 2nd Semester",
+                "Subjects": {
+                    "ENG 202 English - II": {"Grade": "B+", "GPA": 3.5},
+                    "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.03},
+                    "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                    "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.73},
+                    "IT 232 Database Management System": {"Grade": "B", "GPA": 3.18}
+                },
+                "SGPA": 2.98,
+                "Semester Grade": "Fail",
+                "Remarks": "Fail"
+            },
+            
+                {
+                    "Roll Number": "34061/22",
+                    "Student Name": "DAKIMA BOMJAN TAMANG",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B+", "GPA": 3.3},
+                        "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.34},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.88},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.66},
+                        "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.46},
+                        "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                    },
+                    "SGPA": 3.29,
+                    "Semester Grade": "B",
+                    "Remarks": "Second Division"
+                },
+                {
+                    "Roll Number": "34062/22",
+                    "Student Name": "DIPASHA SHRESTHA",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B+", "GPA": 3.66},
+                        "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.73},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.18},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.79},
+                        "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.18},
+                        "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.5}
+                    },
+                    "SGPA": 3.49,
+                    "Semester Grade": "B+",
+                    "Remarks": "First Division"
+                },
+                {
+                    "Roll Number": "34063/22",
+                    "Student Name": "DRISTI RAI",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B+", "GPA": 3.66},
+                        "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.62},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.66},
+                        "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.7},
+                        "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.5}
+                    },
+                    "SGPA": 3.53,
+                    "Semester Grade": "B+",
+                    "Remarks": "First Division"
+                },
+                {
+                    "Roll Number": "34064/22",
+                    "Student Name": "ELIZA DAS",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B+", "GPA": 3.66},
+                        "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.24},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.88},
+                        "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.42},
+                        "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.34}
+                    },
+                    "SGPA": 3.38,
+                    "Semester Grade": "B+",
+                    "Remarks": "First Division"
+                },
+                {
+                    "Roll Number": "34065/22",
+                    "Student Name": "JINA SIWAKOTI",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B+", "GPA": 3.34},
+                        "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.27},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.82},
+                        "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3.15},
+                        "IT 232 Database Management System": {"Grade": "B", "GPA": 3.18}
+                    },
+                    "SGPA": 3.23,
+                    "Semester Grade": "B",
+                    "Remarks": "Second Division"
+                },
+                {
+                    "Roll Number": "34066/22",
+                    "Student Name": "KANCHAN NIROULA",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "A-", "GPA": 3.79},
+                        "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.54},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.09},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.76},
+                        "MTH 202 Business Mathematics - II": {"Grade": "A", "GPA": 4},
+                        "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.42}
+                    },
+                    "SGPA": 3.61,
+                    "Semester Grade": "B+",
+                    "Remarks": "First Division"
+                },
+                {
+                    "Roll Number": "34067/22",
+                    "Student Name": "KRISHALA GAUTAM",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B", "GPA": 3.18},
+                        "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.24},
+                        "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0}
+                    },
+                    "SGPA": 1.47,
+                    "Semester Grade": "Fail",
+                    "Remarks": "Fail"
+                },
+                {
+                    "Roll Number": "34069/22",
+                    "Student Name": "KUSUM THAPA",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "A-", "GPA": 3.79},
+                        "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.54},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.94},
+                        "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.46},
+                        "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.38}
+                    },
+                    "SGPA": 3.49,
+                    "Semester Grade": "B+",
+                    "Remarks": "First Division"
+                },
+                {
+                    "Roll Number": "34070/22",
+                    "Student Name": "LAXMI KUMARI GUPTA",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B+", "GPA": 3.38},
+                        "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 2.94},
+                        "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 2.94},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.97},
+                        "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.58},
+                        "IT 232 Database Management System": {"Grade": "B", "GPA": 3.27}
+                    },
+                    "SGPA": 3.29,
+                    "Semester Grade": "B",
+                    "Remarks": "Second Division"
+                },
+                {
+                    "Roll Number": "34071/22",
+                    "Student Name": "MAMITA LIMBU",
+                    "Grade": "BBA 2nd Semester",
+                    "Subjects": {
+                        "ENG 202 English - II": {"Grade": "B", "GPA": 3.21},
+                        "ACC 201 Financial Accounting": {"Grade": "Absent", "GPA": 0},
+                        "ECO 204 Macro Economics for Business": {"Grade": "Absent", "GPA": 0},
+                        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "Absent", "GPA": 0},
+                        "MTH 202 Business Mathematics - II": {"Grade": "Absent", "GPA": 0},
+                        "IT 232 Database Management System": {"Grade": "Absent", "GPA": 0}
+                    },
+                    "SGPA": 0.54,
+                    "Semester Grade": "Fail",
+                    "Remarks": "Fail"
+                },
+                
+                    {
+                        "Roll Number": "34072/22",
+                        "Student Name": "MISANG YAKSO LIMBU",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.66},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.12},
+                            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.76},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.66},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.18}
+                        },
+                        "SGPA": 1.89,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34073/22",
+                        "Student Name": "NABIN SINGH BIST",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.27},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.24},
+                            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.7},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B-", "GPA": 2.94},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 1.8,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34074/22",
+                        "Student Name": "NAYUNG  RAI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "Absent", "GPA": 0},
+                            "ACC 201 Financial Accounting": {"Grade": "Absent", "GPA": 0},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Absent", "GPA": 0}
+                        },
+                        "SGPA": 0,
+                        "Semester Grade": "Absent",
+                        "Remarks": "Absent"
+                    },
+                    {
+                        "Roll Number": "34075/22",
+                        "Student Name": "NIKHIL TAMANG",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B-", "GPA": 2.85},
+                            "ACC 201 Financial Accounting": {"Grade": "F", "GPA": 0},
+                            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.73},
+                            "MTH 202 Business Mathematics - II": {"Grade": "F", "GPA": 0},
+                            "IT 232 Database Management System": {"Grade": "F", "GPA": 0}
+                        },
+                        "SGPA": 1.09,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34076/22",
+                        "Student Name": "NIRMALA KHADKA",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "A-", "GPA": 3.73},
+                            "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.79},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.03},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.85},
+                            "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.82},
+                            "IT 232 Database Management System": {"Grade": "A-", "GPA": 3.73}
+                        },
+                        "SGPA": 3.67,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34077/22",
+                        "Student Name": "PRAJWAL KHATIWADA",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.12},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.24},
+                            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.58},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.34},
+                            "IT 232 Database Management System": {"Grade": "F", "GPA": 0}
+                        },
+                        "SGPA": 1.68,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34079/22",
+                        "Student Name": "RASTRIYAA NEPAL",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "A-", "GPA": 3.85},
+                            "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.85},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B+", "GPA": 3.5},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.97},
+                            "MTH 202 Business Mathematics - II": {"Grade": "A", "GPA": 4},
+                            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.66}
+                        },
+                        "SGPA": 3.8,
+                        "Semester Grade": "A-",
+                        "Remarks": "Very Good"
+                    },
+                    {
+                        "Roll Number": "34080/22",
+                        "Student Name": "RIYA SHAH",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.03},
+                            "ACC 201 Financial Accounting": {"Grade": "F", "GPA": 0},
+                            "ECO 204 Macro Economics for Business": {"Grade": "F", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.85},
+                            "MTH 202 Business Mathematics - II": {"Grade": "F", "GPA": 0},
+                            "IT 232 Database Management System": {"Grade": "F", "GPA": 0}
+                        },
+                        "SGPA": 0.98,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34081/22",
+                        "Student Name": "ROJINA PRADHAN",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.58},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.46},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B-", "GPA": 2.94},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.82},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.54},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 3.4,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34082/22",
+                        "Student Name": "SADIKSHA SHRESTHA",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.66},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.58},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.06},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.97},
+                            "MTH 202 Business Mathematics - II": {"Grade": "A", "GPA": 4},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 3.56,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34083/22",
+                        "Student Name": "SALINA KARKI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.38},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.3},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.09},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.94},
+                            "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.7},
+                            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.3}
+                        },
+                        "SGPA": 3.41,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34084/22",
+                        "Student Name": "SANDHYA  RAI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.66},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.27},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.03},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.82},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3.03},
+                            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.3}
+                        },
+                        "SGPA": 3.31,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34085/22",
+                        "Student Name": "SANJEETA BISTA",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "A-", "GPA": 3.73},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.34},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.12},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.79},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.3},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.24}
+                        },
+                        "SGPA": 3.39,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34087/22",
+                        "Student Name": "SARUN RAI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.3},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.09},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.7},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3.06},
+                            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.38}
+                        },
+                        "SGPA": 3.21,
+                        "Semester Grade": "B",
+                        "Remarks": "Second Division"
+                    },
+                    {
+                        "Roll Number": "34088/22",
+                        "Student Name": "SNEHA BASNET",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.62},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.58},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.24},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.85},
+                            "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.85},
+                            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.38}
+                        },
+                        "SGPA": 3.57,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34089/22",
+                        "Student Name": "SNEHA GAUTAM",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.62},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.62},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.24},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.97},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3.09},
+                            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.34}
+                        },
+                        "SGPA": 3.43,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34090/22",
+                        "Student Name": "SONIYA RAI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.5},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.24},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.09},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.88},
+                            "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.76},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 3.41,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34091/22",
+                        "Student Name": "SUJATA DHAKAL",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.42},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.06},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Fail", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A", "GPA": 4},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3.21},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 2.8,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34092/22",
+                        "Student Name": "SULAV DAHAL",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.5},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.46},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B+", "GPA": 3.54},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.7},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.38},
+                            "IT 232 Database Management System": {"Grade": "B+", "GPA": 3.46}
+                        },
+                        "SGPA": 3.48,
+                        "Semester Grade": "B+",
+                        "Remarks": "First Division"
+                    },
+                    {
+                        "Roll Number": "34093/22",
+                        "Student Name": "SUMINA KHADKA",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.27},
+                            "ACC 201 Financial Accounting": {"Grade": "B", "GPA": 3.03},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B", "GPA": 3.21},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.94},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B", "GPA": 3},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.24}
+                        },
+                        "SGPA": 3.2,
+                        "Semester Grade": "B",
+                        "Remarks": "Second Division"
+                    },
+                    {
+                        "Roll Number": "34094/22",
+                        "Student Name": "SUPRAVA TAMANG",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.66},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.58},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Fail", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "B+", "GPA": 3.62},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B-", "GPA": 2.91},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 0,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34095/22",
+                        "Student Name": "SUPRIMA RAI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B+", "GPA": 3.42},
+                            "ACC 201 Financial Accounting": {"Grade": "Fail", "GPA": 0},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Fail", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.7},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B-", "GPA": 2.97},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 0,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "2",
+                        "Student Name": "SUSMA LIMBU",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.27},
+                            "ACC 201 Financial Accounting": {"Grade": "Fail", "GPA": 0},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Fail", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.7},
+                            "MTH 202 Business Mathematics - II": {"Grade": "Fail", "GPA": 0},
+                            "IT 232 Database Management System": {"Grade": "B", "GPA": 3.21}
+                        },
+                        "SGPA": 0,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34097/22",
+                        "Student Name": "TAYAMA RAI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.21},
+                            "ACC 201 Financial Accounting": {"Grade": "B+", "GPA": 3.42},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Fail", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.88},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B+", "GPA": 3.66},
+                            "IT 232 Database Management System": {"Grade": "Fail", "GPA": 0}
+                        },
+                        "SGPA": 0,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34098/22",
+                        "Student Name": "TOSHI RAI",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.18},
+                            "ACC 201 Financial Accounting": {"Grade": "Fail", "GPA": 0},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Fail", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.85},
+                            "MTH 202 Business Mathematics - II": {"Grade": "Fail", "GPA": 0},
+                            "IT 232 Database Management System": {"Grade": "Fail", "GPA": 0}
+                        },
+                        "SGPA": 0,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    },
+                    {
+                        "Roll Number": "34099/22",
+                        "Student Name": "TRIPTI RANA MAGAR",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "A-", "GPA": 3.79},
+                            "ACC 201 Financial Accounting": {"Grade": "A-", "GPA": 3.76},
+                            "ECO 204 Macro Economics for Business": {"Grade": "B+", "GPA": 3.42},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.94},
+                            "MTH 202 Business Mathematics - II": {"Grade": "A-", "GPA": 3.97},
+                            "IT 232 Database Management System": {"Grade": "A-", "GPA": 3.73}
+                        },
+                        "SGPA": 3.77,
+                        "Semester Grade": "A-",
+                        "Remarks": "Very Good"
+                    },
+                    {
+                        "Roll Number": "1",
+                        "Student Name": "YUNISH GHALE",
+                        "Grade": "BBA 2nd Semester",
+                        "Subjects": {
+                            "ENG 202 English - II": {"Grade": "B", "GPA": 3.09},
+                            "ACC 201 Financial Accounting": {"Grade": "Fail", "GPA": 0},
+                            "ECO 204 Macro Economics for Business": {"Grade": "Fail", "GPA": 0},
+                            "ECO 205 Seminar on Contemporary Issues of Macro Economics": {"Grade": "A-", "GPA": 3.73},
+                            "MTH 202 Business Mathematics - II": {"Grade": "B-", "GPA": 2.94},
+                            "IT 232 Database Management System": {"Grade": "Fail", "GPA": 0}
+                        },
+                        "SGPA": 0,
+                        "Semester Grade": "Fail",
+                        "Remarks": "Fail"
+                    }
+                    
+                
+                
+            
+            
+        
+        
+
+    
+
+]

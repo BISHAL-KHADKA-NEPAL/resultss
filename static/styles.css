@@ -1,0 +1,106 @@
+
+
+.download-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.download-button:hover {
+    background-color: #45a049; /* Darker Green */
+}
+
+/* Search container */
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Search input */
+.search-input {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    flex: 1;
+    margin-right: 10px;
+}
+
+/* Search button */
+.search-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Hover effect for the search button */
+.search-button:hover {
+    background-color: #45a049;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #8f2727, #1384bc);
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 100%; /* Allow the container to fill the entire width */
+    overflow-x: hidden; /* Hide horizontal overflow */
+    text-align: left; /* Ensure text alignment is left */
+}
+.container img.logo {
+    display: block; /* Ensure image is displayed as a block element */
+    margin: 0 auto 10px; /* Center the image horizontally and add margin at the bottom */
+    max-width: 100%; /* Ensure the logo image doesn't exceed the container width */
+    height: auto; /* Maintain aspect ratio */
+}
+.container p {
+    margin: 5px 0; /* Add some space between paragraphs */
+    text-align: left; /* Ensure text alignment is left */
+}
+h2 {
+    color: #333;
+    text-align: center;
+}
+p {
+    color: #555;
+    margin: 10px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    color: #444;
+}
+th {
+    background-color: #f2f2f2;
+}
+.highlight {
+    background-color: #ffffcc;
+    font-weight: bold;
+}

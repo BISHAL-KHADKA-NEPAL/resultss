@@ -1,0 +1,34 @@
+{
+    "Roll Number": "34039/22",
+    "Student Name": "AAKRITI MAGAR",
+    "Grade": "2nd Semester BBA",
+    "Subjects": {
+        "ENG 202 English - II": {
+            "Grade": "B+",
+            "GPA": 3.62
+        },
+        "ACC 201 Financial Accounting": {
+            "Grade": "B",
+            "GPA": 3.06
+        },
+        "ECO 204 Macro Economics for Business": {
+            "Grade": "F",
+            "GPA": 0
+        },
+        "ECO 205 Seminar on Contemporary Issues of Macro Economics": {
+            "Grade": "A-",
+            "GPA": 3.73
+        },
+        "MTH 202 Business Mathematics - II": {
+            "Grade": "B+",
+            "GPA": 3.58
+        },
+        "IT 232 Database Management System": {
+            "Grade": "B",
+            "GPA": 3.21
+        }
+    },
+    "SGPA": "Fail", 
+    "Semester Grade": "Fail", 
+    "Remarks": "Fail"
+    }

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Tribhuvan University</title>
+    <link rel="stylesheet" href="/static/styles.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0c3e71;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 90%;
+        }
+
+        .search-container {
+            margin-bottom: 20px;
+        }
+
+        .search-input {
+            padding: 10px;
+            width: 60%;
+            border: 1px solid #ccc;
+            border-radius: 5px 0 0 5px;
+            outline: none;
+        }
+
+        .search-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+        }
+
+        .search-button:hover {
+            background-color: #0056b3;
+        }
+
+        .download-button {
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .download-button:hover {
+            background-color: #218838;
+        }
+        #downloadButton {
+            display: none; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Tribhuvan University</h1>
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search by Roll Number or Name">
+            <button id="searchButton" class="search-button">Search</button>
+        </div>
+        <div id="reportCardContainer"></div>
+        <button id="downloadButton" class="download-button">Download Report</button>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+<script src="https://660bd793806ae6ae5bf98acc--lustrous-seahorse-b00a06.netlify.app/script.js"></script>
+    <script>
+        document.getElementById("searchButton").addEventListener("click", function() {
+            var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+            fetch("/search", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                body: "searchTerm=" + searchTerm
+            })
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(data) {
+                if (data.length > 0) {
+                    document.getElementById("reportCardContainer").innerHTML = generateReportCard(data[0]);
+                    document.getElementById("downloadButton").style.display = "block"; // Show download button
+                } else {
+                    document.getElementById("reportCardContainer").innerHTML = "<p>No student found with the given search term.</p>";
+                    document.getElementById("downloadButton").style.display = "none"; // Hide download button if no results
+                }
+            });
+        });
+    </script>
+</body>
+</html>
